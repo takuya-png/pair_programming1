@@ -1,0 +1,56 @@
+.title_area {
+  font-size: 40px;
+}
+.title_area p {
+  text-align: center;
+}
+.form th{
+  width:150px;
+  padding-right: 1rem;
+  height: 7rem;
+  text-align: right;
+  font-size: 16px;
+}
+.form td{
+  width: 480px;
+}
+.label{
+  float: left;
+  margin-right: 20px;
+  width:150px;
+  padding-left: 10px;
+}
+.inputs{
+  float: left;
+  width:480px;
+}
+input[type="text"],input[type="email"]{
+  border: solid 1px #aaa;
+  border-radius:5px;
+  padding:10px;
+  width: 480px;
+}
+textarea{
+  border: solid 1px #aaa;
+  border-radius:5px;
+  padding: 10px;
+}
+.btn-area-submit{
+  background: #33ffff;
+  border: none;
+  color: white;
+  font-size:17px;
+  font-weight:bold;
+  padding: 10px 20px;
+  margin: 0 5px;
+}
+.btn-area-submit:hover{
+  opacity: 0.5;
+}
+
+th{
+  font-style: 7rem;
+}
+.btn-area{
+  text-align: center;
+}
